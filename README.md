@@ -70,3 +70,4 @@
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="bash logo"  />
 </div>
 
+![github-contribution-grid-snake-dark](https://github.com/Wibiemahardhika22/wibiemahardhika22/assets/89759299/733f6f68-cd20-4585-937d-75a2613534f9)
