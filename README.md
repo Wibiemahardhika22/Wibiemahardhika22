@@ -88,9 +88,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c61d002b-70b4-4523-8d54-9be1f0849650" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4535f595-75e1-440a-b41c-692bd9157fc8" />
-    <img src="https://github.com/Wibiemahardhika22/Wibiemahardhika22/assets/89759299/0458d549-c22d-4940-9982-a7225bc35c71" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e4dafaa8-beef-4565-bf76-20faaeca1912" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/361a852d-e09f-41aa-88f1-9da15f1c3b42" />
+    <img src="https://github.com/user-attachments/assets/e4dafaa8-beef-4565-bf76-20faaeca1912" alt="snake" />
   </picture>
 </div>
 
