@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">Hello! I'm Wibie Mahardhika Adi, thank you for visiting my GitHub profile. Currently, I am pursuing my education at Ahmad Dahlan University, Yogyakarta, majoring in Information Systems.</p>
+<p align="left">Hello! I'm Wibie Mahardhika Adi, thank you for visiting my GitHub profile. I am a graduate of Ahmad Dahlan University, Yogyakarta, with a degree in Information Systems. I'm passionate about software development and always eager to learn new technologies.</p>
 
 ###
 
